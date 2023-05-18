@@ -1,13 +1,7 @@
 ## 此人目前仍在 GameEngine 上奮鬥
-## 來玩個遊戲吧
- <iframe  
- height = 90%
- width = 90% 
- src="https://jimlin2004.github.io/games/Snake/Snake.html"  
- frameborder=0  
- allowfullscreen>
- </iframe>
-<!--
+
+
+ <!--
 **jimlin2004/jimlin2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
