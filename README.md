@@ -3,7 +3,7 @@
  <iframe  
  height = 90%
  width = 90% 
- src="[http://mctool.wangmingchang.com/index/jspay/dashang](https://jimlin2004.github.io/games/Snake/Snake.html)"  
+ src="https://jimlin2004.github.io/games/Snake/Snake.html"  
  frameborder=0  
  allowfullscreen>
  </iframe>
